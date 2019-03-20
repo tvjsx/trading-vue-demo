@@ -43,9 +43,6 @@
             },
             mounted() {
                 window.addEventListener('resize', this.onResize)
-                setTimeout(() => {
-                    Vue.set(this.data, 'offchart', []);
-                }, 2500)
             },
             methods: {
                 onResize(event) {
