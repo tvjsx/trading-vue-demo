@@ -68290,6 +68290,17 @@ Data = {
                 "z-index": 5,
                 "legend": false
             }
+        },
+        {
+            "name": "Data sections",
+            "type": "Splitters",
+            "data": [
+                [1555520400000, "Welcome aboard 😎", 1, "#22b57f"]
+            ],
+            "settings": {
+                "legend": false,
+                "lineColor": "#22b57f"
+            }
         }
     ],
     "offchart": [
