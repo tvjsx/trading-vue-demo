@@ -68288,7 +68288,8 @@ Data = {
             ],
             "settings": {
                 "z-index": 5,
-                "legend": false
+                "legend": false,
+                "labelColor": "#888"
             }
         },
         {
